@@ -5,4 +5,4 @@ This is my first foray into the programming world, specifically using Python. I 
 
 What you see here are a few simple projects that I put together in order to test out basic Python concepts. 
 
-Most of them were created with the help of walk-throughs, aside from the number guessing game. The number guessing game was one that I wrote by myself with only a general aim in mind, rather than following steps. 
+Some were created with the help of walk-throughs, and some were general ideas that I "trial and error"-d. The number guessing game, for example. 
